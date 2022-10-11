@@ -3,4 +3,5 @@ The problem addressed is to implement a Sudoku solver using a constraint satisfa
 approach based on constraint propagation and backtracking and one
 based on Relaxation Labeling. \
 Then we’ll provide an analyses doing a comparison between those two approaches,
-their strengths and weaknesses.
+their strengths and weaknesses. \ 
+for more details read the Report
